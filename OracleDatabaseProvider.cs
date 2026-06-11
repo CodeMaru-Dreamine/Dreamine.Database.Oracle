@@ -6,8 +6,15 @@ using System.Data;
 
 namespace Dreamine.Database.Oracle;
 
+/// <summary>
+/// Provides an Oracle database provider implementation.
+/// </summary>
 public sealed class OracleDatabaseProvider : DatabaseProviderBase
 {
+    /// <summary>
+    /// Initializes a new instance of the <see cref="OracleDatabaseProvider"/> class.
+    /// </summary>
+    /// <param name="connectionString">The Oracle connection string.</param>
     public OracleDatabaseProvider(string connectionString)
         : base(connectionString)
     {
