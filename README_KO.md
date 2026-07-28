@@ -1,8 +1,14 @@
 # Dreamine.Database.Oracle
 
+[![CI](https://github.com/CodeMaru-Dreamine/Dreamine.Database.Oracle/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CodeMaru-Dreamine/Dreamine.Database.Oracle/actions/workflows/ci.yml) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=CodeMaru-Dreamine_Dreamine.Database.Oracle&metric=alert_status&branch=main)](https://sonarcloud.io/summary/new_code?id=CodeMaru-Dreamine_Dreamine.Database.Oracle&branch=main) [![Security](https://sonarcloud.io/api/project_badges/measure?project=CodeMaru-Dreamine_Dreamine.Database.Oracle&metric=security_rating&branch=main)](https://sonarcloud.io/summary/new_code?id=CodeMaru-Dreamine_Dreamine.Database.Oracle&branch=main) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=CodeMaru-Dreamine_Dreamine.Database.Oracle&metric=coverage&branch=main)](https://sonarcloud.io/summary/new_code?id=CodeMaru-Dreamine_Dreamine.Database.Oracle&branch=main)
+
+[![라이선스](https://img.shields.io/github/license/CodeMaru-Dreamine/Dreamine.Database.Oracle?label=라이선스)](./LICENSE) [![.NET](https://img.shields.io/badge/.NET-8-512BD4)](https://dotnet.microsoft.com/) [![NuGet](https://img.shields.io/nuget/v/Dreamine.Database.Oracle?label=nuget)](https://www.nuget.org/packages/Dreamine.Database.Oracle) [![다운로드](https://img.shields.io/nuget/dt/Dreamine.Database.Oracle?label=다운로드)](https://www.nuget.org/packages/Dreamine.Database.Oracle)
+
+[![문서](https://img.shields.io/badge/📘_문서-dreamine.kr-2F80ED)](https://dreamine.kr) [![가이드](https://img.shields.io/badge/📘_가이드-dreamine.kr-3498DB)](https://dreamine.kr) [![플레이그라운드](https://img.shields.io/badge/🎮_플레이그라운드-dreamine.kr-8E44AD)](https://dreamine.kr) [![도서](https://img.shields.io/badge/📖_도서-Practical_MVVM_Architecture-111111)](https://dreamine.kr)
+
 `Dreamine.Database.Oracle`은 Dreamine Database 패키지군의 Oracle Provider입니다.
 
-[English documentation](./README.md)
+[English documentation / 영문 문서](./README.md)
 
 ## 패키지 역할
 
